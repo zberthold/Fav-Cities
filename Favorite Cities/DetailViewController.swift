@@ -12,6 +12,7 @@ class DetailViewController: UIViewController {
     @IBOutlet weak var stateTextField: UITextField!
     @IBOutlet weak var cityTextField: UITextField!
     @IBOutlet weak var populationTextField: UITextField!
+    @IBOutlet weak var imageView: UIImageView!
     var detailItem: City? {
         didSet {
             // Update the view.

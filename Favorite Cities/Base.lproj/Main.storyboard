@@ -89,6 +89,7 @@
                     <navigationItem key="navigationItem" title="City Details" id="mOI-FS-AaM"/>
                     <connections>
                         <outlet property="cityTextField" destination="avR-6G-CUr" id="Rso-Q9-0eC"/>
+                        <outlet property="imageView" destination="L00-gz-lyk" id="72M-y7-esH"/>
                         <outlet property="populationTextField" destination="8uc-PY-hEA" id="hhE-jG-T1m"/>
                         <outlet property="stateTextField" destination="otr-iD-h9y" id="xZB-Fl-6eq"/>
                     </connections>
